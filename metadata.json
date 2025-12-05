@@ -1,0 +1,9 @@
+{
+  "name": "SheSafe",
+  "description": "AI-powered emergency alert system with emotion detection.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
